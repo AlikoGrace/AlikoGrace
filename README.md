@@ -11,11 +11,11 @@
 
 
 
-<h3 align="center">A Machine Learning enthusiast from Ghana 🇨🇦</h3>
+<h3 >A Machine Learning enthusiast from Ghana 🇨🇦</h3>
 
 <br/>
 
-<div align="center">
+<div >
  
  🔭 I’m currently working on **a model that detects risk of dyslexia in Kids with data from eye tracking**
  
