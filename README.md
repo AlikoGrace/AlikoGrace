@@ -1,17 +1,16 @@
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grace+Aliko!;" />
 </h1>
 
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+ 
+## I'm a Data Enthusiast, an Entreprenuer and a Developer!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- 🔭 I’m currently working on a model that detects the risk of dyslexia in kids.
+- 🌱 I’m currently learning flask and AWS
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
