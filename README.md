@@ -7,6 +7,10 @@
 </h1>
 
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
+
 <h3 align="center">A Machine Learning enthusiast from Ghana 🇨🇦</h3>
 
 <br/>
