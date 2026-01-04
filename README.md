@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="460" height="300" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="460" height="460" />
 
 ### 👋 About me
 
@@ -30,4 +30,4 @@ I believe LLMs shouldn’t introduce new vulnerabilities — they should help us
 
 ### 🌍 Find me around the internet
 - 🏠 Portfolio: **https://gracealiko.com/*       - ✍️ Blog: **[your-blog-link]**
-- 💼 LinkedIn: **https://www.linkedin.com/in/grace-aliko/**   - 📬 Email: **gracealiko.com**
+- 💼 LinkedIn: **[https://www.linkedin.com/in/grace-aliko/]**   - 📬 Email: **gracealiko.com**
