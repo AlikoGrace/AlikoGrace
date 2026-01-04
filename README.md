@@ -8,13 +8,13 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="460" height="460" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="500" />
 
 ### 👋 About me
 
 I’m a computer scientist working at the intersection of **LLM systems and security**.  
 By day, I build language-model-powered systems.  
-By night, I try to break them — carefully, creatively, and before bad actors do.
+By night, I try to break them creatively, and before bad actors do.
 
 I grew up climbing trees in the upper parts of Ghana. My grandmother says that if I were born earlier, I would’ve seen elephants come drink at the stream near our house. 
 These days, 
